@@ -1,7 +1,6 @@
 :root {
     --blue: #0c569f;
     --teal: #1993a0;
-    --black: #272727;
     --orange: #eb5b25;
     --white: #fff;
     --black: #000;
@@ -149,7 +148,7 @@ nav {
 }
 
 nav a {
-    color: var(--blue);
+    color: var(--black);
     text-decoration: none;
     text-transform: uppercase;
     font-family: Roboto Medium;
